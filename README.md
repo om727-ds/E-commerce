@@ -81,8 +81,8 @@ commers/
 ├── src/          # Java source files
 ├── web/          # Web content (JSP, HTML, etc.)
 ├── build/        # Compiled classes and build output
-├── dist/         # Distribution files
-├── lib/          # External libraries
+├── test/         # Distribution files
+├── DS_store/      
 ├── nbproject/    # NetBeans project configuration
 └── README.md     # this file
 
